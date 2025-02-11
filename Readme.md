@@ -1,6 +1,5 @@
-# 🛒 Nombre de la Empresa
-
-Bienvenido a **Nombre de la Empresa**, tu tienda en línea de confianza para [categoría de productos]. Nos especializamos en ofrecer productos de alta calidad con envíos rápidos y atención al cliente excepcional.
+# 🛒 FuturoMendoza
+Bienvenido a FuturoMendoza, tu tienda en línea de confianza para [categoría de productos]. Nos especializamos en ofrecer productos de alta calidad con envíos rápidos y atención al cliente excepcional.
 
 ## 🚀 Características
 
